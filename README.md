@@ -1,6 +1,6 @@
 Программа удаляет хромакей (оттенок зелёного) из картинки в формате png. 
 
-<img alt="best_editor_main" align="middle" width="100%" src="https://raw.githubusercontent.com/LupanovEvgeniyHTML/LupanovEvgeniyHTML/main/projects_media/SimdleKeyer/keyer_main.jpg"/>  
+<img alt="keyer_main" align="middle" width="100%" src="https://raw.githubusercontent.com/LupanovEvgeniyHTML/LupanovEvgeniyHTML/main/projects_media/SimpleKeyer/keyer_main.jpg"/>  
 
 ## Запуск
 
